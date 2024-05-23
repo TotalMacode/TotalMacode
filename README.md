@@ -1,0 +1,5 @@
+- 👋 Hi, I’m TotalMacode!
+- 👀 I’m interested in playing videogames and coding, and maybe in the future, Coding VideoGames? 🤔
+- 🌱 I’m currently learning JavaScript; Frontend web development.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I started coding at 11 years old!
